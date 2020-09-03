@@ -1,6 +1,6 @@
 # Maintainer: max-k <max-kATpostDOTcom>
 pkgname=sonar-scanner
-pkgver="4.2.0.1873"
+pkgver="4.4.0.2170"
 pkgrel=1
 pkgdesc="Default launcher to analyze a project with SonarQube"
 arch=('any')
